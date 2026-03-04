@@ -37,7 +37,7 @@ This Repository has PW Skills Excel's Assignments which I completed as a part of
  
  Aspiring Data Analyst
  
- Github: <https://github.com/hafsaali2003-tech>
+ Github: <https://github.com/hafsa-ali-data-analyst>
  ## License
  - This Repository is for learning and practice purpose only.
 
