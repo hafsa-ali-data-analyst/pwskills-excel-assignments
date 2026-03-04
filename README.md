@@ -30,7 +30,7 @@ This Repository has PW Skills Excel's Assignments which I completed as a part of
 - Gained hands on experience in Data Cleaning , Data Validation , Analysing and Visualizing the Data.
 ## How to Use
 - ### Clone this Repository
-- git clone <https://github.com/hafsaali2003-tech/pwskills-excel-assignments.git>
+- Git Clone: <https://github.com/hafsa-ali-data-analyst/pwskills-excel-assignments.git>
 - Open the Excel's Assignments file in Microsoft Excel ( Microsoft Excel is recommended for better functionality).
  ## Author
  **Hafsa Ali**
